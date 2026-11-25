@@ -54,3 +54,14 @@ This is a survey sample, not a census. Season C has fewer observations. Do not p
 - Ministry of Agriculture and Animal Resources. (2025). *Annual report 2023–2024*. https://www.minagri.gov.rw/fileadmin/user_upload/Minagri/Publications/Annual_Reports/MINAGRI_Annual_Report_for_2023-24_FY__FINAL.pdf
 - National Institute of Statistics of Rwanda. (2024). *Rwanda Seasonal Agricultural Survey 2024* [Dataset]. https://data.gov.rw/collections/360cab66-ac0e-4aa0-9c5e-43c052d0bf0a
 - Oracle. (2021). *Oracle Database 21c: Coding PL/SQL subprograms and packages*. https://docs.oracle.com/en/database/oracle/oracle-database/21/adfns/coding-subprograms-and-packages.html
+
+
+## Phase I – Business Process Modeling
+
+Selected process: Agricultural Survey Data Import, Validation, Storage and Analytical Reporting.
+
+- **Modeling tool:** diagrams.net (draw.io). Editable source: [business_process_diagram.drawio](docs/business_process/business_process_diagram.drawio).
+- **Published diagram link:** Pending publication through diagrams.net; the editable source is included in this repository, but the assignment requires a separate public link.
+- **Supporting explanation:** [business process explanation](docs/business_process/business_process_explanation.md).
+- **Submission artifacts:** `docs/business_process/`.
+
